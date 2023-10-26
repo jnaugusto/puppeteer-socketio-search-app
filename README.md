@@ -12,15 +12,6 @@ To run this application, you'll need the following dependencies:
 
 - [MD5](https://github.com/pvorb/node-md5): A widely-used JavaScript library for generating MD5 hashes, which are used in this application to match URLs.
 
-## Getting Started
-
-To set up and run the application, follow these steps:
-
-1. Clone the repository to your local machine.
-
-   ```bash
-   git clone https://github.com/your-username/your-repo.git
-
 ## Usage
 To use the application, connect to the server through a Socket.IO client and send search requests. The application will automatically perform Google searches for these requests and provide the matching URLs in real time.
 
